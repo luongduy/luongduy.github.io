@@ -58,7 +58,7 @@ header .banner {
 
 header .banner-text { width: 100%; }
 header .banner-text h1 {
-   font: 90px/1.1em 'opensans-bold', sans-serif;
+   font: 70px/1.1em 'opensans-bold', sans-serif;
    color: #fff;
    letter-spacing: -2px;
    margin: 0 auto 18px auto;
@@ -66,14 +66,14 @@ header .banner-text h1 {
 }
 header .banner-text h3 {
    font: 18px/1.9em 'librebaskerville-regular', serif;
-   color: #A8A8A8;
+   color: #fff;
    margin: 0 auto;
    width: 70%;
    text-shadow: 0px 1px 2px rgba(0, 0, 0, .5);
 }
 header .banner-text h3 span,
 header .banner-text h3 a {
-   color: #fff;
+   color: #A8F8A8;
 }
 header .banner-text hr {
    width: 60%;
@@ -297,9 +297,9 @@ ul#nav li.current a { color: #F06000; }
 }
 .bars li {
    position: relative;
-  	margin-bottom: 60px;
+  	margin-bottom: 50px;
   	background: #ccc;
-  	height: 42px;
+  	height: 32px;
   	border-radius: 3px;
 }
 .bars li em {
@@ -309,7 +309,7 @@ ul#nav li.current a { color: #F06000; }
    letter-spacing: 2px;
 	font-weight: normal;
    position: relative;
-	top: -36px;
+	top: -28px;
 }
 .bar-expand {
    position: absolute;
@@ -320,90 +320,172 @@ ul#nav li.current a { color: #F06000; }
    padding-right: 24px;
   	background: #313131;
    display: inline-block;
-  	height: 42px;
+  	height: 32px;
    line-height: 42px;
    border-radius: 3px 0 0 3px;
 }
 
-.photoshop {
-  	width: 60%;
-  	-moz-animation: photoshop 2s ease;
-  	-webkit-animation: photoshop 2s ease;
+.logical-thinking {
+  	width: 85%;
+  	-moz-animation: logical-thinking 2s ease;
+  	-webkit-animation: logical-thinking 2s ease;
 }
-.illustrator {
-  	width: 55%;
-  	-moz-animation: illustrator 2s ease;
-  	-webkit-animation: illustrator 2s ease;
+.algorithm {
+  	width: 85%;
+  	-moz-animation: algorithm 2s ease;
+  	-webkit-animation: algorithm 2s ease;
 }
-.wordpress {
-  	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+.design-pattern {
+  	width: 70%;
+  	-moz-animation: design-pattern 2s ease;
+  	-webkit-animation: design-pattern 2s ease;
 }
-.css {
-  	width: 90%;
-  	-moz-animation: css 2s ease;
-  	-webkit-animation: css 2s ease;
-}
-.html5 {
+.php {
   	width: 80%;
-  	-moz-animation: html5 2s ease;
-  	-webkit-animation: html5 2s ease;
+  	-moz-animation: php 2s ease;
+  	-webkit-animation: php 2s ease;
 }
-.jquery {
-  	width: 50%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
+.java {
+  	width: 80%;
+  	-moz-animation: java 2s ease;
+  	-webkit-animation: java 2s ease;
+}
+.erlang {
+  	width: 60%;
+  	-moz-animation: erlang 2s ease;
+  	-webkit-animation: erlang 2s ease;
 }
 
-@-moz-keyframes photoshop {
-  0%   { width: 0px;  }
-  100% { width: 60%;  }
+.jquery {
+    width: 70%;
+    -moz-animation: jquery 2s ease;
+    -webkit-animation: jquery 2s ease;
 }
-@-moz-keyframes illustrator {
-  0%   { width: 0px;  }
-  100% { width: 55%;  }
+.magento {
+    width: 70%;
+    -moz-animation: magento 2s ease;
+    -webkit-animation: magento 2s ease;
 }
-@-moz-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
+.laravel {
+    width: 65%;
+    -moz-animation: laravel 2s ease;
+    -webkit-animation: laravel 2s ease;
 }
-@-moz-keyframes css {
-  0%   { width: 0px;  }
-  100% { width: 90%;  }
+.SQL-server {
+    width: 90%;
+    -moz-animation: SQL-server 2s ease;
+    -webkit-animation: SQL-server 2s ease;
 }
-@-moz-keyframes html5 {
+.english {
+    width: 80%;
+    -moz-animation: english 2s ease;
+    -webkit-animation: english 2s ease;
+}
+.japanese {
+    width: 80%;
+    -moz-animation: japanese 2s ease;
+    -webkit-animation: japanese 2s ease;
+}
+
+@-moz-keyframes logical-thinking {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes algorithm {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-moz-keyframes design-pattern {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-moz-keyframes php {
   0%   { width: 0px;  }
   100% { width: 80%;  }
+}
+@-moz-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-moz-keyframes erlang {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
 }
-
-@-webkit-keyframes photoshop {
+@-moz-keyframes magento {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 70%;  }
 }
-@-webkit-keyframes illustrator {
+@-moz-keyframes laravel {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 65%;  }
 }
-@-webkit-keyframes wordpress {
-  0%   { width: 0px;  }
-  100% { width: 50%;  }
-}
-@-webkit-keyframes css {
+@-moz-keyframes SQL-server {
   0%   { width: 0px;  }
   100% { width: 90%;  }
 }
-@-webkit-keyframes html5 {
+@-moz-keyframes english {
   0%   { width: 0px;  }
   100% { width: 80%;  }
 }
+@-moz-keyframes japanese {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+
+/* ***** */
+
+@-webkit-keyframes logical-thinking {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes algorithm {
+  0%   { width: 0px;  }
+  100% { width: 85%;  }
+}
+@-webkit-keyframes design-pattern {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes php {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes java {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes erlang {
+  0%   { width: 0px;  }
+  100% { width: 60%;  }
+}
+
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes magento {
+  0%   { width: 0px;  }
+  100% { width: 70%;  }
+}
+@-webkit-keyframes laravel {
+  0%   { width: 0px;  }
+  100% { width: 65%;  }
+}
+@-webkit-keyframes SQL-server {
+  0%   { width: 0px;  }
+  100% { width: 90%;  }
+}
+@-webkit-keyframes english {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
+}
+@-webkit-keyframes japanese {
+  0%   { width: 0px;  }
+  100% { width: 80%;  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -639,7 +721,7 @@ call-to-action .button {
 /* ------------------------------------------------------------------ */
 
 #testimonials {
-   background: #1F1F1F url(../images/testimonials-bg.jpg) no-repeat center center;
+   background: #1F1F1F url(../images/testimonials-bg2.jpg) no-repeat center center;
    background-size: cover !important;
 	-webkit-background-size: cover !important;
    background-attachment: fixed;
@@ -789,8 +871,8 @@ call-to-action .button {
 
 #contact {
    background: #191919;
-   padding-top: 96px;
-   padding-bottom: 102px;
+   padding-top: 60px;
+   padding-bottom: 20px;
    color: #636363;
 }
 #contact .section-head { margin-bottom: 42px; }
@@ -825,6 +907,8 @@ call-to-action .button {
 #contact p.lead {
    font: 18px/36px 'opensans-light', sans-serif;
    padding-right: 3%;
+   color: #EBEEEE;
+   font-size: 36px;
 }
 #contact .header-col { padding-top: 6px; }
 
@@ -842,10 +926,10 @@ call-to-action .button {
 #contact input,
 #contact textarea,
 #contact select {
-   padding: 18px 20px;
+   padding: 8px 10px;
 	color: #eee;
 	background: #373233;
-	margin-bottom: 42px;
+	margin-bottom: 15px;
 	border: 0;
 	outline: none;
    font-size: 15px;
@@ -926,7 +1010,7 @@ call-to-action .button {
 
 footer {
    padding-top: 48px;
-   margin-bottom: 48px;
+   margin-bottom: 32px;
    color: #303030;
    font-size: 14px;
    text-align: center;
@@ -946,6 +1030,7 @@ footer .copyright li {
     margin: 0;
     padding: 0;
     line-height: 24px;
+    color: white;
 }
 .ie footer .copyright li {
    display: inline;
@@ -1003,4 +1088,5 @@ footer .social-links li:first-child { margin-left: 0; }
  	border-radius: 100%;
 }
 #go-top a:hover { background-color: #0F9095; }
+
 
