@@ -6,29 +6,30 @@ permalink: /about/
 
 # About This Blog
 
-Welcome to my real estate investment blog! This site is dedicated to providing in-depth analysis and insights into real estate markets, with a particular focus on Japan and the Greater Tokyo Area.
+Welcome to my personal blog! This site is a collection of my thoughts, experiences, and insights across various topics that interest me, with a particular focus on life and opportunities in Japan.
 
 ## What You'll Find Here
 
-- **Market Analysis**: Comprehensive analysis of real estate markets, trends, and forecasts
-- **Investment Strategies**: Practical insights and strategies for real estate investment
-- **Economic Insights**: How macroeconomic factors affect real estate markets
-- **Regional Focus**: Detailed coverage of Japanese real estate markets, particularly Tokyo
+- **Engineering & Technology**: Technical insights, project experiences, and industry observations
+- **Investment & Finance**: Analysis of markets, investment strategies, and financial planning
+- **Life in Japan**: Cultural observations, practical tips, and personal experiences living in Japan
+- **History & Culture**: Explorations of historical events, cultural phenomena, and their modern relevance
+- **Personal Hobbies**: Sharing experiences and insights from my various interests and pursuits
 
 ## My Approach
 
-I believe in data-driven analysis combined with deep understanding of local market dynamics. Each post aims to provide actionable insights backed by thorough research and market data.
+I believe in sharing authentic experiences and well-researched insights. Each post aims to provide value through personal perspective, thorough analysis, or practical information that might help others on similar journeys.
 
 ## Topics Covered
 
-- Real estate investment analysis
-- Market trends and forecasts
-- Economic policy impacts on real estate
-- Regional market dynamics
-- Investment strategies and risk management
+- Engineering and technology trends
+- Investment analysis and strategies
+- Japanese culture and lifestyle
+- Historical perspectives and lessons
+- Personal projects and hobbies
+- Travel and exploration
+- Professional development insights
 
 ## Contact
-
 Feel free to reach out if you have questions or suggestions for future topics.
-
-*This blog is for informational purposes only and should not be considered as financial advice. Always consult with qualified professionals before making investment decisions.*
+You can contact me at: [duy.luonganh@gmail.com](mailto:duy.luonganh@gmail.com)
